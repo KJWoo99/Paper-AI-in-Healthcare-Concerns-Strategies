@@ -1,6 +1,6 @@
 # AI in Healthcare: Concerns and Development Strategies
 
-This repository contains a mock academic paper created as part of a university assignment. The paper explores concerns and development strategies for Artificial Intelligence (AI) in the healthcare field.
+This repository contains a MOCK Academic Paper created as part of a UNIVERSITY ASSIGNMENT. The paper explores concerns and development strategies for Artificial Intelligence (AI) in the healthcare field.
 
 ## Important Note
 
